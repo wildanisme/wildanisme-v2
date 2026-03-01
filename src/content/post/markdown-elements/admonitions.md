@@ -14,6 +14,12 @@ Admonitions (also known as “asides”) are useful for providing supportive and
 
 To use admonitions in Astro Cactus, wrap your Markdown content in a pair of triple colons `:::`. The first pair should also include the type of admonition you want to use.
 
+```js title="test.js"
+function name(){
+
+}
+````
+
 For example, with the following Markdown:
 
 ```md
